@@ -1,4 +1,4 @@
-package myspringboot.reactive.r2dbc;
+package myspringboot.reactive.r2dbc.controller;
 
 import myspringboot.reactive.r2dbc.dto.Customer;
 import org.junit.jupiter.api.Test;
